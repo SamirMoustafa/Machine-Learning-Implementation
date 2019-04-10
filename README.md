@@ -4,6 +4,8 @@
 - K-Nearest Neighbors
 - K-Mean
 - ID3 (Decision Tree)
+- CART (Decision Tree)
+- Random Forest (Decision Tree)
 
 ## Requirements
 - Python 3.5+
@@ -14,12 +16,12 @@
 - Scipy
 
 ## Data-set
-Every algorithm use different random data-set that generate from Numpy.
+Every algorithm use different dataset that's generated from Numpy or loaded from CSV file.
 
 ## Research
 Please use this bibtex if you want to cite this repository in your publications:
 ```
-@misc{embedding_world,
+@misc{Machine Learning,
     author = {Samir Moustafa},
     title = {Machine Learning Implementation from Scratch},
     year = {2019},
