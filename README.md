@@ -1,5 +1,5 @@
 # Machine Learning Implementation from Scratch
-##### This repo disgen to be a refrence for me to review machine learning basics algorithms 
+##### This repo design to be a reference for me to review machine learning basics algorithms 
 ## Content
 - K-Nearest Neighbors
 - K-Mean
