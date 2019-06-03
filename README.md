@@ -27,6 +27,6 @@ Please use this bibtex if you want to cite this repository in your publications:
     year = {2019},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {https://github.com/SamirMoustafa//home/samir/Desktop/Machine-Learning-Implementation}
+    howpublished = {https://github.com/SamirMoustafa/Machine-Learning-Implementation}
 }
 ```
